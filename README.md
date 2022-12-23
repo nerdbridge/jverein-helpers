@@ -58,6 +58,7 @@ The script will do the following:
 - Check manifest.json
 - Check existence and hash of zip file
 - Unzip the latest archive to `%APPDATA%\YouVerein\JVerein`
+- Ensure the `.jameica.properties` file
 - Start JVerein
 - Wait until JVerein is finished
 - ZIP JVerein again
